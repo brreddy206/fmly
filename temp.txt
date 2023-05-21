@@ -1,0 +1,6 @@
+sfsjkdf
+sdfhkshklaf
+import pandas as pd
+data=pd.read_csv('breast_cancer.csv')
+data
+data.info
